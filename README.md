@@ -11,3 +11,7 @@ Repositorio con la entrega de la Tarea 2. Contiene:
    - Grupo5_Tarea2.pdf: informe de la tarea 2. 
    - shakespeare_tarea_2.ipynb: notebook con todo el código utilizado para el procesamiento de datos, generación de gráficos, etc. de la tarea 2.
 
+#Tarea_3
+Repositorio con la entrega de la Tarea 3. Contiene:
+   - Grupo5_Tarea3.pdf: informe de la tarea 3.
+   - climate_change_indicators.csv: conjunto de datos seleccionado para la tarea.
